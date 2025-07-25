@@ -192,4 +192,4 @@ Feel free to fork this and adapt it to your own CMS or workflow! Pull requests, 
 
 ## 📄 License
 
-MIT License
+GPL 3.0
